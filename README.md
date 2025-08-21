@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I’m Chisom  
 
-<!--
-**ChisomNwaigweI/ChisomNwaigweI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a graduate of Animal Science transitioning into data, finance, and technology.  
+Passionate about problem-solving, analytics, and sustainable solutions.  
 
-Here are some ideas to get you started:
+### 🔧 What I’m Learning  
+- Data analysis & visualization  
+- Financial analytics & investment basics  
+- GitHub & version control  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 My Goals  
+- Build projects that connect agriculture, finance, and tech  
+- Grow into a career in finance and data analysis  
+
+### 📫 Connect with me  
+- Email: nwaigwechisomi@gmail.com
+- LinkedIn: https://www.linkedin.com/in/chisomnwaigwe 
